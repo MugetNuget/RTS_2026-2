@@ -5,6 +5,8 @@
 //      - Medellin, Colombia 2026 -
 /*************************************************/
 
+#define _POSIX_C_SOURCE 200809L
+
 #include <string.h>
 #include <signal.h>
 #include <time.h>
